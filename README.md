@@ -11,8 +11,6 @@ App download each image once in a day, and store locally. When the user requests
 ===
   ![ScreenShot](http://i.hizliresim.com/dPadDX.jpg)
   
-  ![ScreenShot](http://i.hizliresim.com/gqD0v5.jpg)
-  
  ********************
  
   ![ScreenShot](http://i.hizliresim.com/nRa6N0.jpg)
