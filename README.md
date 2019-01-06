@@ -9,11 +9,11 @@ App download each image once in a day, and store locally. When the user requests
 ********************
   Screenshot
 ===
-  ![ScreenShot](http://i.hizliresim.com/dPadDX.jpg)
+  ![ScreenShot](https://imageshack.com/a/img921/4822/yK28Zx.jpg)
   
  ********************
  
-  ![ScreenShot](http://i.hizliresim.com/nRa6N0.jpg)
+  ![ScreenShot](https://imageshack.com/a/img921/4148/1seXZw.jpg)
   
 ********************
 
@@ -21,4 +21,4 @@ App download each image once in a day, and store locally. When the user requests
   
   ********************
   
-  ![ScreenShot](http://i.hizliresim.com/z31kLj.jpg)
+  ![ScreenShot](https://imageshack.com/a/img921/9253/gEinOj.jpg)
